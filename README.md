@@ -14,6 +14,10 @@ A production-ready full-stack store rating platform built with **React**, **Expr
 - Responsive UI with sidebar, navbar, toast notifications, loading spinners, and confirmation dialogs
 - Frontend and backend validation for all forms
 
+## Demo Video
+
+Watch the demo: [https://youtu.be/zY1g77WZUcw](https://youtu.be/zY1g77WZUcw)
+
 ## Tech Stack
 
 | Layer | Technology |
